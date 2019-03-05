@@ -1,0 +1,41 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.ClientPrj_0801",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "https://qmby.feefoxes.com/qipaiweb/hnqp/wechat_2018081101",
+    "orientation": "landscape right"
+  },
+  "renderMode": "0",
+  "startScene": "b3a231b1-20eb-42c3-b27f-205e9a2282f6",
+  "title": "ClientPrj_0801",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://qmby.feefoxes.com/qipaiweb/hnqp/res_hn_2019022801",
+    "appid": "wxb6c24a8c4b35af18",
+    "isSubdomain": false,
+    "orientation": "landscape",
+    "subContext": ""
+  },
+  "xxteaKey": "bee0cb58-ed50-48",
+  "zipCompressJs": true
+}

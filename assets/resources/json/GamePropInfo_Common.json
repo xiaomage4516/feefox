@@ -1,0 +1,11 @@
+[
+
+{"id":"1","prop_name":"绿叶头像框(1天)","prop_type":"1","ispile":"0","isuse":"1","prop_effect":"0","effect_way":"1","effect_value":"86400","ischangehead":"1","prop_img":"1","item_describe":"变为绿色叶子的头像框"},
+{"id":"2","prop_name":"黄金头像框(永久)","prop_type":"1","ispile":"0","isuse":"1","prop_effect":"0","effect_way":"1","effect_value":"-1","ischangehead":"1","prop_img":"2","item_describe":"变为金光闪闪的头像框"},
+{"id":"3","prop_name":"1小时金豆卡","prop_type":"2","ispile":"0","isuse":"1","prop_effect":"1","effect_way":"2","effect_value":"3600","ischangehead":"0","prop_img":"3","item_describe":"1小时内获得金豆数量增加10%"},
+{"id":"4","prop_name":"10局金豆卡","prop_type":"2","ispile":"0","isuse":"1","prop_effect":"1","effect_way":"3","effect_value":"10","ischangehead":"0","prop_img":"4","item_describe":"10局内获得金豆数量增加10%"},
+{"id":"5","prop_name":"1小时积分卡","prop_type":"3","ispile":"0","isuse":"1","prop_effect":"2","effect_way":"5","effect_value":"3600","ischangehead":"0","prop_img":"5","item_describe":"1小时内获得积分数量增加10%"},
+{"id":"6","prop_name":"10局积分卡","prop_type":"3","ispile":"0","isuse":"1","prop_effect":"2","effect_way":"6","effect_value":"10","ischangehead":"0","prop_img":"6","item_describe":"10局内获得积分数量增加10%"},
+{"id":"7","prop_name":"初始头像框","prop_type":"1","ispile":"0","isuse":"1","prop_effect":"0","effect_way":"1","effect_value":"-1","ischangehead":"1","prop_img":"7","item_describe":"变为最初拥有的头像框"},
+{"id":"8","prop_name":"黄金头像框(7天)","prop_type":"1","ispile":"0","isuse":"1","prop_effect":"0","effect_way":"1","effect_value":"604800","ischangehead":"1","prop_img":"2","item_describe":"变为金光闪闪的头像框"}
+]

@@ -1,0 +1,7 @@
+[
+{"id":"1","task_type":"1","task_describe":"今日累计对战5局","task_parameter":"5","task_awards":"1000_1001_3000","level":"1","next_id":"2","task_reward_des":"金豆x3000","task_icon":"1"},
+{"id":"2","task_type":"1","task_describe":"今日累计对战8局","task_parameter":"8","task_awards":"1000_1001_5000","level":"2","next_id":"0","task_reward_des":"金豆x5000","task_icon":"1"},
+{"id":"3","task_type":"2","task_describe":"今日累计对战胜利3局","task_parameter":"3","task_awards":"1000_1001_4000","next_id":"0","task_reward_des":"金豆x4000","task_icon":"1"},
+{"id":"4","task_type":"3","task_describe":"使用10个钻石","task_parameter":"10","task_awards":"1000_1002_5","level":"2","next_id":"0","task_reward_des":"钻石x5","task_icon":"8"},
+{"id":"5","task_type":"4","task_describe":"邀请有礼中使用分享功能","task_parameter":"1","task_awards":"1000_1001_3000","level":"2","next_id":"0","task_reward_des":"金豆x3000","task_icon":"1"}
+]

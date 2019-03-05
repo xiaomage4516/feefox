@@ -1,0 +1,9 @@
+[
+{"id":"1","type":"1","days":"1","signin_awards":"1000_1001_2000","icon":"1","awardid":"0","awardziid":"0","awardsname":"不用填","num":"2000","awardstr":"1000_1001_2000"},
+{"id":"2","type":"1","days":"2","signin_awards":"1000_1001_3000","icon":"2","awardid":"0","awardziid":"0","awardsname":"不用填","num":"3000","awardstr":"1000_1001_3000"},
+{"id":"3","type":"1","days":"3","signin_awards":"1000_1001_4000","icon":"3","awardid":"0","awardziid":"0","awardsname":"不用填","num":"4000","awardstr":"1000_1001_4000"},
+{"id":"4","type":"1","days":"4","signin_awards":"1000_1001_5000","icon":"4","awardid":"0","awardziid":"0","awardsname":"不用填","num":"5000","awardstr":"1000_1001_5000"},
+{"id":"5","type":"1","days":"5","signin_awards":"1000_1001_6000","icon":"5","awardid":"0","awardziid":"0","awardsname":"不用填","num":"6000","awardstr":"1000_1001_6000"},
+{"id":"6","type":"1","days":"6","signin_awards":"1000_1001_10000","icon":"6","awardid":"0","awardziid":"0","awardsname":"不用填","num":"10000","awardstr":"1000_1001_10000"},
+{"id":"7","type":"1","days":"7","signin_awards":"1000_1002_100","icon":"7","awardid":"0","awardziid":"0","awardsname":"不用填","num":"100","awardstr":"1000_1002_100"}
+]

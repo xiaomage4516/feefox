@@ -1,0 +1,262 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hallAnim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.83,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "left/head_info": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                25,
+                110
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                25,
+                -7
+              ]
+            }
+          ]
+        }
+      },
+      "left/game_bean": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                690,
+                63
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                690,
+                -54
+              ]
+            }
+          ]
+        }
+      },
+      "left/game_diamond": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                911,
+                63
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                911,
+                -54
+              ]
+            }
+          ]
+        }
+      },
+      "left/btn_box": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                493,
+                63
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                493,
+                -54
+              ]
+            }
+          ]
+        }
+      },
+      "right/btn_tuidaohu": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                273,
+                85
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -477,
+                85
+              ]
+            }
+          ]
+        }
+      },
+      "right/btn_xinyang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                550,
+                74
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -200,
+                75
+              ]
+            }
+          ]
+        }
+      },
+      "right/btn_switch": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                617,
+                -126
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -133,
+                -126
+              ]
+            }
+          ]
+        }
+      },
+      "center": {
+        "props": {}
+      },
+      "background": {
+        "props": {}
+      },
+      "right/btn_gameType": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                348.5,
+                -125.9
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -401.5,
+                -125.9
+              ]
+            }
+          ]
+        }
+      },
+      "leftPhb/phb": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -297,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                274,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "rightDown": {
+        "props": {}
+      },
+      "rightDown/btn_friendRoom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -108,
+                -103
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -108,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "centerPmd/notice": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "center/centerAnim": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -106
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                -10
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

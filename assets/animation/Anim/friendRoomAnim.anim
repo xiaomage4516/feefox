@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "friendRoomAnim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.33,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "right": {
+        "props": {}
+      },
+      "right/jingongyule": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                243,
+                -213
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -407,
+                -213
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -277,
+                -213
+              ]
+            }
+          ]
+        }
+      },
+      "right/xianshimianfangka": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                348,
+                221
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -302,
+                221
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -172,
+                221
+              ]
+            }
+          ]
+        }
+      },
+      "right/btn_joinRoom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                301,
+                -85
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -349,
+                -85
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -219,
+                -85
+              ]
+            }
+          ]
+        }
+      },
+      "right/btn_createRoom": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                301,
+                108
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -349,
+                108
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -219,
+                108
+              ]
+            }
+          ]
+        }
+      },
+      "leftPhb/phb": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -508,
+                -2
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                197,
+                -2
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                68,
+                -2
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

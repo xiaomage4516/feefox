@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6a60bde2-b1c7-4323-9c63-15aade5db3bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chakan01": {
+      "ver": "1.0.3",
+      "uuid": "6ca70884-8326-476d-a8b3-b1a70e94b1de",
+      "rawTextureUuid": "6a60bde2-b1c7-4323-9c63-15aade5db3bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 78,
+      "height": 36,
+      "rawWidth": 82,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

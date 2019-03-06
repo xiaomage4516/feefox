@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dae91456-7ba1-489c-85be-7c21784726c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pukeCard_1": {
+      "ver": "1.0.3",
+      "uuid": "01d27956-e30d-45a9-ac13-f05630143a4e",
+      "rawTextureUuid": "dae91456-7ba1-489c-85be-7c21784726c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 95,
+      "rawWidth": 128,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

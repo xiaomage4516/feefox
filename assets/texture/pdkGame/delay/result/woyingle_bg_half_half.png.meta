@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f7dd28b9-9e68-4f9e-a4a9-b6df63b3ae8d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "woyingle_bg_half_half": {
+      "ver": "1.0.3",
+      "uuid": "60cf72d8-24cb-4829-a9cd-2aba8dee3006",
+      "rawTextureUuid": "f7dd28b9-9e68-4f9e-a4a9-b6df63b3ae8d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 195,
+      "height": 367,
+      "rawWidth": 195,
+      "rawHeight": 367,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

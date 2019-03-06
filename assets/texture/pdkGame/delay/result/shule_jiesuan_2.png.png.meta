@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0bb1dcca-2ad2-4559-bd91-a7cebefa1aca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shule_jiesuan_2.png": {
+      "ver": "1.0.3",
+      "uuid": "95bac42f-2008-440c-803c-dd1acf4c3913",
+      "rawTextureUuid": "0bb1dcca-2ad2-4559-bd91-a7cebefa1aca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 11,
+      "width": 34,
+      "height": 14,
+      "rawWidth": 34,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

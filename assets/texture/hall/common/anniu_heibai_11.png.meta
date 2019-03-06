@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8e9a1eb7-5fe3-4c1a-9676-3356d3932fb0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "anniu_heibai_11": {
+      "ver": "1.0.3",
+      "uuid": "2c64bdd3-47f3-40a4-b9ab-02e041e5cdec",
+      "rawTextureUuid": "8e9a1eb7-5fe3-4c1a-9676-3356d3932fb0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 46,
+      "rawWidth": 114,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

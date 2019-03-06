@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "549ed859-ae71-4aed-889f-2d687f03e47e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pan_shengyu_cards": {
+      "ver": "1.0.3",
+      "uuid": "d97745bc-5891-476f-92b0-2a77e490ae98",
+      "rawTextureUuid": "549ed859-ae71-4aed-889f-2d687f03e47e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 49,
+      "height": 65,
+      "rawWidth": 49,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

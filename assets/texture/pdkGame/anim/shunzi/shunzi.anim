@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shunzi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7730769230769231,
+  "sample": 13,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -350,
+            0
+          ]
+        },
+        {
+          "frame": 0.7692307692307693,
+          "value": [
+            350,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 20
+        },
+        {
+          "frame": 0.07692307692307693,
+          "value": 150
+        },
+        {
+          "frame": 0.15384615384615385,
+          "value": 254
+        },
+        {
+          "frame": 0.6153846153846154,
+          "value": 200
+        },
+        {
+          "frame": 0.6923076923076923,
+          "value": 130
+        },
+        {
+          "frame": 0.7692307692307693,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

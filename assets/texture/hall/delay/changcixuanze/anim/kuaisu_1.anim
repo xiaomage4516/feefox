@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kuaisu_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "13930f02-5d93-494b-8fe7-cf43f1c7e868"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d7807e82-5941-4551-bc9d-419b32a81d01"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "b8ce13fc-6395-45b4-8acd-2fc94e776d62"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "017e3d32-a169-443a-9acf-843bd48254cb"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "37acf28e-13b4-495b-b410-d2036e0ff5fb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

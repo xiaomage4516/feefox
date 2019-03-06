@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "971dded1-7799-43f5-b1e7-e187dd2d8937",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_bichu": {
+      "ver": "1.0.3",
+      "uuid": "209e18fb-724d-4d92-8119-b6b43c05e4ac",
+      "rawTextureUuid": "971dded1-7799-43f5-b1e7-e187dd2d8937",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 69,
+      "rawWidth": 70,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
